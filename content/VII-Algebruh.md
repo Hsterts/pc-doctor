@@ -1,6 +1,10 @@
 ---
 title: Algebruh’s 7th
 ---
+>[!CITE] References
+> Based on this document: [Algebruh's 7th](https://docs.google.com/document/d/1Gsl0A9iMFKhMplgGJ_qKzH4RhAq0ZA1RTrbIF7cSLqo/edit)
+
+___
 *Organized for easiest solving, not least setups known*
 
 7th is one of the easiest PCs once you devote the time to it. You have 3 pieces that will be used in the setup, (although, sometimes you use only 2) and a full bag will be used in the solve, leaving you at 1st. Some setups are being looked into for going into 8th instead, but they are incredibly advanced, and generally niche.

@@ -1,6 +1,10 @@
 ---
 title: Algebruh's 2nd
 ---
+>[!CITE] References
+> Based on this document: [Algebruh's 2nd Methods](https://docs.google.com/document/d/1bl-1Ovmq3jJyKVkBIslCbqWIf4c0AjzumVNlv78wN3M/edit#heading=h.e47elh62rgoa)
+
+___
 *Organized in order to balance saves with difficulty and memorization needed. Leans rather heavily toward memorization.*  
 # Notes
 This document is organized in order to minimize the difficulty of memorizing/learning 2nd, while still trying to keep the reliability and usefulness of setups. Due to my biases, it favors memorization and learning of new setups more than simplification.  

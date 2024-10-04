@@ -1,6 +1,10 @@
 ---
 title: Algebruh's Bad 2nd
 ---
+>[!CITE] References
+> Based on this document: [Algebruh's Bad 2nd Methods](https://docs.google.com/document/d/1Py2PMJUjsv0yMtrnJxU1agmHjmwMnLF-OOQUBOvyW2Q/edit)
+
+___
 I don’t like No T Odd J/L 2nd, if you couldn’t tell. Settle for LJSZ saves or die, I guess.
 
 This document aims to provide a high-percentage method for each of the specified PCs. Fail queues will be noted.
