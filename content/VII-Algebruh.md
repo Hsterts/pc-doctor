@@ -1,5 +1,5 @@
 ---
-title: Algebruh’s 7th
+title: Algebruh's 7th
 ---
 >[!CITE] References
 > Based on this document: [Algebruh's 7th](https://docs.google.com/document/d/1Gsl0A9iMFKhMplgGJ_qKzH4RhAq0ZA1RTrbIF7cSLqo/edit)
