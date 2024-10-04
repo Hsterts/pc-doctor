@@ -1,3 +1,6 @@
+---
+title: Algebruh's 4th
+---
 >[!CITE] References
 > Based on this spreadsheet: [Algebruh's 4th](https://docs.google.com/spreadsheets/d/1A628KBDghIeRcQJbaXNntjMkK3jY4d7gC_geUoGn1ds/edit?gid=1677606005#gid=1677606005)
 
