@@ -1,4 +1,8 @@
-# **Algebruh’s 2nd**
+---
+title: Algebruh's Good 2nd
+---
+>[!CITE] References
+> Based on this document: [Algebruh's 2nd Methods](https://docs.google.com/document/d/1bl-1Ovmq3jJyKVkBIslCbqWIf4c0AjzumVNlv78wN3M/edit?tab=t.0#heading=h.e47elh62rgoa)
 
 *Organized in order to balance saves with difficulty and memorization needed. Leans rather heavily toward memorization.*
 

@@ -5,7 +5,7 @@
 | ![][image1] | ![][image2] | ![][image3] |
 | :---- | :---- | :---- |
 
-**OS**  
+**OS**
 **![][image4]**
 
 | Reveal I ![][image5] | Reveal J![][image6] | Reveal L![][image7] | Reveal Z![][image8] |

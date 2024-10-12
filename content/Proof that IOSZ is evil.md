@@ -1,4 +1,4 @@
-![[Pasted image 20241013001442.png]]
+![[evil-iosz.png]]
 
 Left column : 3rd and 4th piece in queue  
 Top thing : qb pieces
