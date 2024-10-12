@@ -1,3 +1,6 @@
+---
+title: RTXILE's See ILOS Method for TSZ 7th
+---
   
 >[!INFO] **TSZ 7TH \- SEE IJOZ/ILOS METHOD BY RTXILE**
 
