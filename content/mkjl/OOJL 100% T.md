@@ -1,3 +1,6 @@
+---
+date: 2024-10-13
+---
 This ones unifnished bc i dont like OOJL anymore the qb approach is so bad
 
 | Summary | ![][image1] | ![][image2] | ![][image3] | ![][image4] | ![][image5] | ![][image6] |

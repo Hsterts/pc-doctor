@@ -1,3 +1,7 @@
+---
+date: 2024-10-13
+---
+
 If you want another approach using a 1p setup, you can use this method [JJIO 100% T J 1p](https://docs.google.com/document/d/1ZxWSdrp-ESbjkhaqYmkE48NaorEvDX1IN8ie5CGop98/edit).
 
 | Summary | ![][image1] | ![][image2] | ![][image3] | ![][image4] | ![][image5] | ![][image6] |

@@ -1,5 +1,6 @@
 ---
 title: mkjl's 2nd PC 100% T
+date: 2024-10-13
 ---
 >[!CITE] Reference
 >Based on this document: https://docs.google.com/document/d/1c-HLKD55_aXsNACApYaCOBm-C-ClJGZhyvJ5x3qzcb8/edit?tab=t.0

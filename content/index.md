@@ -20,3 +20,6 @@ ___
 - [mk's best saves 5th lookup](https://mkjlong.github.io/pc/lookup/) 
 - [jan ewan's 4p 7th](https://docs.google.com/spreadsheets/d/1nNl3YGgMVnaHnybCTw973t80cVg7a6APK9n1QNEd3pA/edit?gid=1332829625#gid=1332829625)
 ```
+
+>[!ERROR] PLAGIARISM
+>I literally copy-pasted most of these into here with minimal changes. This is not ethically sourced.

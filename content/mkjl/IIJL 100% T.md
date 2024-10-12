@@ -1,3 +1,6 @@
+---
+date: 2024-10-13
+---
 Note if you are too lazy to qb read there is a 100% T 3p here: [https://tinyurl.com/2nqkntuy](https://tinyurl.com/2nqkntuy)
 
 | Summary | ![][image1] | ![][image2] | ![][image3] | ![][image4] | ![][image5] | ![][image6] |
