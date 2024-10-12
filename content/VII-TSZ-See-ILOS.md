@@ -4,7 +4,7 @@ title: RTXILE's See ILOS Method for TSZ
   
 >[!INFO] TSZ 7TH \- SEE IJOZ/ILOS METHOD BY RTXILE
 
->[!CITE]
+>[!CITE] References
 >Based on this document: [TSZ 7th - SEE IJOZ/ILOS](https://docs.google.com/document/d/14ko4V1ECy1Db7T67gqsMuzfdFzw3ZKMBDOJr0w_nqfI/edit?tab=t.0)
 
 ~~instead of resting on my birthday i did this what the fuck is wrong with me~~
